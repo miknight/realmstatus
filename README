@@ -1,0 +1,10 @@
+World of Warcraft Realm Status OS X Dashboard Widget
+====================================================
+
+Displays whether a given realm is up or down. Has support for US and EU realms.
+
+I made this one because the others were based off the old XML feeds, which
+don't seem to be available any longer.
+
+-- 
+Mike
