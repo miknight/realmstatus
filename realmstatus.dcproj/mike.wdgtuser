@@ -29,7 +29,7 @@
 		<key>Path</key>
 		<string>realmstatus2</string>
 		<key>SavePath</key>
-		<string>/Users/mike/projects/realmstatus</string>
+		<string>/Users/mike/projects/realmstatus/widget</string>
 		<key>WidgetDeployName</key>
 		<string>Realm Status</string>
 		<key>enableSimulation</key>
@@ -91,7 +91,10 @@
 		</array>
 		<key>Opened Steps</key>
 		<array>
-			<integer>1</integer>
+			<integer>2</integer>
+			<integer>3</integer>
+			<integer>4</integer>
+			<integer>5</integer>
 		</array>
 		<key>Visible StackLayout Views</key>
 		<array>
